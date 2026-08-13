@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/aegka/OneDrive/Documentos/NetBeansProjects/EstadoPedido/src/estadopedido/EstadoPedido.java</file>
+            <file>file:/C:/Users/aegka/OneDrive/Documentos/NetBeansProjects/EstadoPedido/src/estadopedido/TransicionEstadoInvalidaException.java</file>
+            <file>file:/C:/Users/aegka/OneDrive/Documentos/NetBeansProjects/EstadoPedido/src/estadopedido/CapacidadExcedidaException.java</file>
+            <file>file:/C:/Users/aegka/OneDrive/Documentos/NetBeansProjects/EstadoPedido/src/estadopedido/PedidoNoEncontradoException.java</file>
+            <file>file:/C:/Users/aegka/OneDrive/Documentos/NetBeansProjects/EstadoPedido/src/estadopedido/Pedido.java</file>
+            <file>file:/C:/Users/aegka/OneDrive/Documentos/NetBeansProjects/EstadoPedido/src/estadopedido/PedidoNacional.java</file>
+            <file>file:/C:/Users/aegka/OneDrive/Documentos/NetBeansProjects/EstadoPedido/src/estadopedido/PedidoInternacional.java</file>
+            <file>file:/C:/Users/aegka/OneDrive/Documentos/NetBeansProjects/EstadoPedido/src/estadopedido/GestorPedidos.java</file>
+            <file>file:/C:/Users/aegka/OneDrive/Documentos/NetBeansProjects/EstadoPedido/src/estadopedido/Main.java</file>
+        </group>
+    </open-files>
+</project-private>
